@@ -45,10 +45,26 @@ The **Label** key can have one of the following values:
 If you use our work, please cite:
 
 ```bibtex
-@article{brooks2024annotated,
-  title={An Annotated Dataset of Errors in Premodern Greek and Baselines for Detecting Them},
-  author={Brooks, Creston and Haubold, Johannes and Cowen-Breen, Charlie and White, Jay and DeVaul, Desmond and Riemenschneider, Frederick and Narasimhan, Karthik and Graziosi, Barbara},
-  journal={arXiv preprint arXiv:2410.11071},
-  year={2024}
+@inproceedings{brooks-etal-2025-annotated,
+    title = "An Annotated Dataset of Errors in Premodern {G}reek and Baselines for Detecting Them",
+    author = "Brooks, Creston  and
+      Haubold, Johannes  and
+      Cowen-Breen, Charlie  and
+      White, Jay  and
+      DeVaul, Desmond  and
+      Riemenschneider, Frederick  and
+      Narasimhan, Karthik R  and
+      Graziosi, Barbara",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.401/",
+    pages = "7188--7202",
+    ISBN = "979-8-89176-195-7",
 }
 
